@@ -1,4 +1,6 @@
-# South Korea's Demographic Crisis
+
+# South Ko![crowd_seoul2](https://github.com/user-attachments/assets/dd7b3ca3-89eb-467b-8af8-04be019e78e3)
+rea's Demographic Crisis
 
 **Author**: Soroush Saki  
 **Date**: December 2024  
@@ -74,7 +76,7 @@ To address these challenges, a multifaceted approach is required:
 ## Conclusion
 South Korea's demographic crisis is complex but not insurmountable. By addressing structural, economic, and cultural issues, the nation can build a sustainable future. This report outlines actionable steps that policymakers and stakeholders can adopt for long-term success.
 
-> **Note:** This README provides a summary of the project. For a detailed analysis, data visualizations, and in-depth discussions, please refer to the full [Project Report](./South-Korea-Demographic-Crisis.pdf).
+> **Note:** This README provides a summary of the project. For a detailed analysis, data visualizations, and in-depth discussions, please refer to the full [Project Report](https://drive.google.com/file/d/1Sb0soChPMwRTlT4qYL5RlOmykT2vbO0n/view?usp=sharing).
 
 ---
 
@@ -82,7 +84,7 @@ South Korea's demographic crisis is complex but not insurmountable. By addressin
 **Author**: Soroush Saki  
 - [GitHub](https://github.com/soroush-saki)  
 - [LinkedIn](https://www.linkedin.com/in/soroush-saki)  
-- Email: [mr.soroush.saki@gmail.com](mailto:mr.soroush.saki@gmail.com)  
+- [mr.soroush.saki@gmail.com](mailto:mr.soroush.saki@gmail.com)  
 
 Feel free to reach out for discussions, collaborations, or feedback!
 
