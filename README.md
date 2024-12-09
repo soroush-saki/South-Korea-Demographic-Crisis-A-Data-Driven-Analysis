@@ -1,4 +1,3 @@
-
 # South Korea's Demographic Crisis
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/soroush-saki/south-korea-demographic-crisis)  
@@ -6,6 +5,8 @@
 **Date**: December 2024  
 
 South Korea is facing a significant demographic challenge characterized by a declining birth rate and an aging population. This report analyzes the issue, identifies key causes, evaluates potential consequences, and proposes comprehensive solutions.
+
+> **Note:** This README provides a summary of the project. For a detailed analysis, data visualizations, and in-depth discussions, please refer to the full [Project Report](./South-Korea-Demographic-Crisis.pdf).
 
 ---
 
@@ -74,6 +75,8 @@ To address these challenges, a multifaceted approach is required:
 ## Conclusion
 South Korea's demographic crisis is complex but not insurmountable. By addressing structural, economic, and cultural issues, the nation can build a sustainable future. This report outlines actionable steps that policymakers and stakeholders can adopt for long-term success.
 
+> **Note:** This README provides a summary of the project. For a detailed analysis, data visualizations, and in-depth discussions, please refer to the full [Project Report](./South-Korea-Demographic-Crisis.pdf).
+
 ---
 
 ## Contact
@@ -88,5 +91,3 @@ Feel free to reach out for discussions, collaborations, or feedback!
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
-
-
