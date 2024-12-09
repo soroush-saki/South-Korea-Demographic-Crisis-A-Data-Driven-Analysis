@@ -1,6 +1,6 @@
 
-# South Ko![crowd_seoul2](https://github.com/user-attachments/assets/dd7b3ca3-89eb-467b-8af8-04be019e78e3)
-rea's Demographic Crisis
+# South Korea's Demographic Crisis
+![crowd_seoul2](https://github.com/user-attachments/assets/dd7b3ca3-89eb-467b-8af8-04be019e78e3)
 
 **Author**: Soroush Saki  
 **Date**: December 2024  
