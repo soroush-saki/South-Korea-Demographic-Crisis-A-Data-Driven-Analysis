@@ -1,6 +1,6 @@
 
 # South Korea's Demographic Crisis
-![crowd_seoul2](https://github.com/user-attachments/assets/dd7b3ca3-89eb-467b-8af8-04be019e78e3)
+![South-Korea-Demographic-Crisis by Soroush Saki pdf and 1 more page - Personal - Microsoft​ Edge 12_13_2024 3_19_39 PM](https://github.com/user-attachments/assets/9cb45776-1cd0-476c-b6b8-3899af1fb4a0)
 
 **Author**: Soroush Saki  
 **Date**: December 2024  
